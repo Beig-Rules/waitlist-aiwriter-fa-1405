@@ -1,2 +1,3 @@
-# waitlist-aiwriter-fa-1405
-لیست انتظار نویسنده هوش مصنوعی فارسی
+# نویسنده‌یار Waitlist
+
+https://beig-rules.github.io/waitlist-aiwriter-fa-1405/
